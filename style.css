@@ -23,5 +23,5 @@ a, p { font-family: 'Courier New', monospace;
 .sizeme {
 	/* Never allow images to be bigger
     than their parent */
-    max-width: 100%;
+    max-width: 50%;
 }
