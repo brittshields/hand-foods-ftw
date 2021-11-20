@@ -19,19 +19,3 @@ a, p { font-family: 'Courier New', monospace;
     margin: 1.5rem;
     text-align: center;
 }
-
-.nav__link {
-        display: inline;
-    }
-
-.nav__link {
-   display: block;
-   padding: .75rem; 
-}
-
-.topofpage {
-    border: dotted firebrick;
-    position: fixed;
-    bottom: 5px;
-    right: 5px;
-
