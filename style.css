@@ -1,12 +1,25 @@
-h1, a, p {
-	font-family: 'Courier New', monospace;
-  color: firebrick;
-}
-
-a, p {
-	font-size: 1.5rem;
-}
-
 .paintedwall {
 	background-color: papayawhip;
+}
+
+h1 {
+    font-family: 'Courier New', monospace;
+    color: firebrick;
+    text-align: center;
+    border: dotted burlywood;
+    padding: 1.5rem;
+}
+
+a, p { font-family: 'Courier New', monospace;
+    margin: .5rem;
+}
+
+img {
+   height: 250px;
+   left: 50%;
+   margin-top: -125px;
+   margin-left: -125px;
+   position: absolute;
+   top: 50%;
+   width: 250px;
 }
