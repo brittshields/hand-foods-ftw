@@ -6,20 +6,22 @@
 	text-align: center;
 }
 
-.shrinkme {
-	width: 225px;
+.sizeme {
+	width: 1200px;
+	height: 300px;
 }
+
 
 h1 {
     font-family: 'Courier New', monospace;
     color: firebrick;
     text-align: center;
     border: dotted burlywood;
-    padding: 3rem;
+    padding: 2rem;
 }
 
 a, p { font-family: 'Courier New', monospace;
-    margin: 1.5rem;
+    margin: 1.25rem;
     text-align: center;
 }
 
