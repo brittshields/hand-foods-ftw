@@ -29,4 +29,9 @@ a, p { font-family: 'Courier New', monospace;
    padding: .75rem; 
 }
 
+.topofpage {
+    border: dotted firebrick;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
 
