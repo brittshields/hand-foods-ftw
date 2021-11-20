@@ -1,16 +1,3 @@
-.paintedwall {
-	background-color: papayawhip;
-}
-
-.moveme {
-	text-align: center;
-	padding: 3rem;
-}
-
-.moveme2 {
-	text-align: center;
-}
-
 
 h1 {
     font-family: 'Courier New', monospace;
@@ -24,3 +11,23 @@ a, p { font-family: 'Courier New', monospace;
     margin: 1.5rem;
     text-align: center;
 }
+
+img {
+    /* Never allow images to be bigger
+    than their parent */
+    max-width: 100%;
+}
+
+.paintedwall {
+	background-color: papayawhip;
+}
+
+.moveme {
+	text-align: center;
+	padding: 3rem;
+}
+
+.moveme2 {
+	text-align: center;
+}
+
