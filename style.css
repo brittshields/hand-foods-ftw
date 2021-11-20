@@ -7,14 +7,11 @@ h1 {
     color: firebrick;
     text-align: center;
     border: dotted burlywood;
-    padding: 1.5rem;
+    padding: 3rem;
 }
 
 a, p { font-family: 'Courier New', monospace;
-    margin: .5rem;
+    margin: 1.5rem;
+    text-align: center;
 }
 
-img {
-   height: 50%;
-   width: 50%;
-}
