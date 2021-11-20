@@ -12,10 +12,16 @@ h1 {
     color: firebrick;
     text-align: center;
     border: dotted burlywood;
-    padding: 3rem;
+    padding: 1.5rem;
 }
 
 a, p { font-family: 'Courier New', monospace;
     margin: 1.5rem;
     text-align: center;
+}
+
+.sizeme {
+	/* Never allow images to be bigger
+    than their parent */
+    max-width: 100%;
 }
