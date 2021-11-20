@@ -1,1 +1,8 @@
-something
+h1, a, p {
+	font-family: 'Courier New', monospace;
+  color: firebrick;
+}
+
+.paintedwall {
+	background-color: papayawhip;
+}
